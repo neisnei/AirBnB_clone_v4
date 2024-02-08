@@ -1,2 +1,4 @@
 # Ignore __pycache__ directories in web_dynamic
 web_dynamic/__pycache__/
+models/__pycache__/
+models/engine/__pycache__/
